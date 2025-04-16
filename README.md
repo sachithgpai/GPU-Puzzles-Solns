@@ -1,5 +1,12 @@
 # GPU Puzzles
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
+---
+> ## My Notes
+> I thoroughly enjoyed the solving these puzzles and am very grateful to [Alexander Rush](http://rush-nlp.com/) and other contributors for setting up these fun puzzles. 
+> > ***Raise the stakes*** If you are using Google colab to solve these puzzles, then you can challenge yourself to finish the puzzles befor your free Colab credits run out. I failed at this. 🥲
+> > May the odds be in your favour!
+> 
+---
 
 ![](https://github.com/srush/GPU-Puzzles/raw/main/cuda.png)
 
